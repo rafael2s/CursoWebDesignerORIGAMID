@@ -1,3 +1,9 @@
-# ALUNO DO CURSO WEBDESIGNER BY ORIGAMID 
+# ESTUDANDE DE DESENVOLVIMENTO WEB
+Aluno do curso de Web Designer - ORIGAMID
 
-## APRENDENDO A USAR GIT E GITHUB
+Projeto Bikcraft
+
+
+
+### Aprendendo a utilizar o git e github. 
+
