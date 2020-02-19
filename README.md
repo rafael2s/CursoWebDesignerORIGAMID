@@ -1,9 +1,8 @@
-# ESTUDANDE DE DESENVOLVIMENTO WEB
-Aluno do curso de Web Designer - ORIGAMID
+# Course Web Design completo<br />
+Instructor: André Rafael.
 
-Projeto Bikcraft
+## Project Bikcraft
 
-
-
-### Aprendendo a utilizar o git e github. 
+### Website 
+[ORIGAMID](https://www.origamid.com/)
 
